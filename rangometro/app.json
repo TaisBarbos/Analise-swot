@@ -23,7 +23,7 @@
       "output": "static"
     },
     "experiments": {
-      "baseUrl": "/Analise-Swot"
+      "baseUrl": "/Analise-swot"
     },
     "plugins": [
       "expo-router"

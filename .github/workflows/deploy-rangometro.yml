@@ -37,7 +37,7 @@ jobs:
       - name: Gerar site do Rangometro
         run: npx expo export --platform web --output-dir dist
         env:
-          EXPO_PUBLIC_BASE_URL: /Analise-Swot
+          EXPO_PUBLIC_BASE_URL: /Analise-swot
 
       - name: Configurar GitHub Pages
         uses: actions/configure-pages@v5
